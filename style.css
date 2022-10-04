@@ -1,0 +1,37 @@
+.circle {
+    height: 80px;
+    width: 80px;
+    background-color: grey;
+    border-radius: 50%;
+    text-align: center;
+    
+  }
+
+  .container{
+    display:grid;
+    border: 2px solid black;
+    justify-content: center;
+    
+  }
+
+  .header{
+    text-align: center;
+    padding:25px;   
+    align-items: center;
+    justify-content: center;
+  }
+
+  .event-container{
+    border: 2px solid black;
+    padding: 10px;
+    margin-right: 10px;
+  }
+
+  .event{
+    text-align:center;
+  }
+
+  .events{
+    align-items: center;
+    margin-bottom: 30px;
+  }
